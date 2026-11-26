@@ -1,10 +1,6 @@
 <div align="center">
   
   # Olá! Eu sou o Pedro  👋
-  
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas na Estácio.
-  
-  🚀 Atualmente estou aprimorando meus conhecimentos em programação e desenvolvendo projetos acadêmicos e pessoais para colocar em prática o que venho aprendendo.
 
   <img src="./assets/ai-grok.gif" width="150" alt="Coding GIF">
 
